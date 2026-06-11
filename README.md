@@ -6,6 +6,8 @@
 
 - **公式サイト**: [https://apexcharts.com/](https://apexcharts.com/)
 - **GitHub (Vue 3 Wrapper)**: [apexcharts/vue3-apexcharts](https://github.com/apexcharts/vue3-apexcharts)
+- **デモサイト (Vercel)**: [https://apex-charts-demo-project.vercel.app](https://apex-charts-demo-project.vercel.app)
+- **Storybook (Vercel)**: [https://apex-charts-demo-storybook.vercel.app](https://apex-charts-demo-storybook.vercel.app)
 
 ## ApexCharts について
 
