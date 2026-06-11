@@ -1,5 +1,5 @@
 import '../src/style.css'
-import { setup } from '@storybook/vue3-vite'
+import { setup } from '@storybook/vue3'
 import { createRouter, createMemoryHistory } from 'vue-router'
 
 // RouterLink / RouterView が story 内で解決できるようにメモリルーターを注入
