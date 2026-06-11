@@ -12,7 +12,7 @@ defineProps({
   <div class="mb-12">
     <p class="text-xs font-semibold tracking-widest text-indigo-500 uppercase mb-4">調査レポート</p>
     <h1 class="text-4xl font-bold text-slate-900 leading-tight">{{ title }}</h1>
-    <p class="text-base text-slate-500 mt-3 max-w-2xl leading-relaxed">{{ subtitle }}</p>
+    <p class="text-base text-slate-500 mt-3 leading-relaxed">{{ subtitle }}</p>
     <div class="flex flex-wrap gap-8 mt-6 text-sm">
       <span class="text-slate-500">
         回答数：<strong class="text-slate-800 font-semibold">{{ totalResponses.toLocaleString() }}</strong>
